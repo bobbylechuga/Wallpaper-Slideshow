@@ -1,3 +1,6 @@
+# MapsBackgrounds
+Added Google Maps captures with my favorite places in the world
+
 # Wallpaper Slideshow
 ## For Elementary OS
 
